@@ -1,0 +1,3 @@
+function hasRol(member,rol){
+
+}

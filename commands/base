@@ -1,0 +1,11 @@
+const desc = "";
+module.exports={
+    name: '',
+    description: desc,
+    desc(){
+        return desc;
+    },
+    execute(message,args){
+        
+    }
+}
